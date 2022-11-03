@@ -1,0 +1,5 @@
+.terraform/**
+tests/.pytest_cache/**
+__pycache__/**
+**/*.backup
+**/*.hci
